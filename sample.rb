@@ -2,7 +2,7 @@ def hello
   p "hello, world."
   good
   god
-  hello world!
+  hello
 end
 
 hello
